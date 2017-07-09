@@ -1,0 +1,15 @@
+#!/bin/sh
+
+rsync -rav --delete \
+	--exclude '.*' \
+	--exclude node_modules \
+	--exclude 'cached/*' \
+	. 'travel-price-map-rest:~/travel-price-map-rest/'
+
+ssh travel-price-map-rest "\
+cd ~/travel-price-map-rest
+npm i
+npm update
+export NODE_ENV=production
+forever stop travel-price-map-rest
+forever start -a --uid travel-price-map-rest index.js"

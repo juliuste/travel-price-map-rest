@@ -1,0 +1,10 @@
+{
+	"hostname":      "localhost",
+	"port":          3000,
+	"key":           ".ssl/device.key",
+	"cert":          ".ssl/device.crt",
+	"ca":            ".ssl/root-ca.crt",
+	"timezone":      "Europe/Berlin",
+	"cacheTime":	 24,
+	"origins":		 ["DEBER"]
+}
