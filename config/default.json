@@ -5,6 +5,6 @@
 	"cert":          ".ssl/device.crt",
 	"ca":            ".ssl/root-ca.crt",
 	"timezone":      "Europe/Berlin",
-	"cacheTime":	 24,
+	"cacheTime":	 48,
 	"origins":		 ["DEBER"]
 }
