@@ -6,5 +6,5 @@
 	"ca":            ".ssl/root-ca.crt",
 	"timezone":      "Europe/Berlin",
 	"cacheTime":	 48,
-	"origins":		 ["DEBER"]
+	"origins":		 ["DEBER", "DEFRA"]
 }
