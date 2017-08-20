@@ -1,7 +1,7 @@
 {
 	"name": "travel-price-map-rest",
 	"description": "Travel price map backend",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"keywords": [
 		"bus",
 		"coach",
@@ -30,7 +30,7 @@
 		"db-prices": "^2.0.0",
 		"eurolines-de": "^0.1.0",
 		"express": "^4.13.4",
-		"hsts": "^2.0.0",
+		"http": "0.0.0",
 		"load-json-file": "^2.0.0",
 		"lodash.find": "^4.6.0",
 		"lodash.sortby": "^4.7.0",
@@ -40,7 +40,6 @@
 		"nocache": "^2.0.0",
 		"node-fetch": "^1.7.1",
 		"sncf": "^0.4.0",
-		"spdy": "^3.3.3",
 		"write-json-file": "^2.2.0"
 	},
 	"peerDependencies": {

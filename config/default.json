@@ -1,9 +1,5 @@
 {
-	"hostname":      "localhost",
-	"port":          3000,
-	"key":           ".ssl/device.key",
-	"cert":          ".ssl/device.crt",
-	"ca":            ".ssl/root-ca.crt",
+	"port":          3006,
 	"timezone":      "Europe/Berlin",
 	"cacheTime":	 48,
 	"origins":		 ["DEBER", "DEFRA"]
