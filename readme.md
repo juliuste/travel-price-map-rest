@@ -1,6 +1,6 @@
 # travel-price-map-rest
 
-Backend for [travel-price-map](https://juliuste.github.io/travel-price-map/).
+Backend for [pricemap.eu](https://github.com/juliuste/travel-price-map/).
 
 [![dependency status](https://img.shields.io/david/juliuste/travel-price-map-rest.svg)](https://david-dm.org/juliuste/travel-price-map-rest)
 [![dev dependency status](https://img.shields.io/david/dev/juliuste/travel-price-map-rest.svg)](https://david-dm.org/juliuste/travel-price-map-rest#info=devDependencies)
