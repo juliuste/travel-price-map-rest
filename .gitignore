@@ -12,3 +12,4 @@ config/*
 cached/*
 
 package-lock.json
+shrinkwrap.yaml
