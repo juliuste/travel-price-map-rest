@@ -363,7 +363,7 @@
         }
     },
     {
-        "id": null,
+        "id": "DEHAM",
         "db": 8096009,
         "mfb": 118,
         "eurolines": "Hamburg",
@@ -385,7 +385,7 @@
         }
     },
     {
-        "id": null,
+        "id": "DECGN",
         "db": 8096022,
         "mfb": 107,
         "eurolines": "Köln",
@@ -396,7 +396,7 @@
         }
     },
     {
-        "id": null,
+        "id": "DEMUN",
         "db": 8000261,
         "mfb": 94,
         "eurolines": "München",
@@ -407,7 +407,7 @@
         }
     },
     {
-        "id": null,
+        "id": "DELEI",
         "db": 8010205,
         "mfb": 113,
         "eurolines": "Leipzig",

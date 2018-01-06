@@ -3,5 +3,5 @@
 	"timezone":      "Europe/Berlin",
 	"period":        {"start": 2, "end": 36},
 	"cacheTime":	 48,
-	"origins":		 ["DEBER", "DEFRA"]
+	"origins":		 ["DEBER", "DEFRA", "DEHAM", "DECGN", "DEMUN", "DELEI"]
 }
