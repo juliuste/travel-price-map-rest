@@ -10,3 +10,5 @@ config/*
 !config/default.json
 
 cached/*
+
+package-lock.json
