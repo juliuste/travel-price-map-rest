@@ -1,6 +1,7 @@
 {
 	"port":          3006,
 	"timezone":      "Europe/Berlin",
+	"period":        {"start": 10, "end": 10},
 	"cacheTime":	 48,
 	"origins":		 ["DEBER", "DEFRA"]
 }
