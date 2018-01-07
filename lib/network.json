@@ -721,6 +721,18 @@
     },
     {
         "id": null,
+        "db": 5300005,
+        "mfb": 6358,
+        "eurolines": "Brasov",
+        "ouibus": null,
+        "name": "Brasov",
+        "coordinates": {
+            "longitude": 25.613711,
+            "latitude": 45.661516
+        }
+    },
+    {
+        "id": null,
         "db": 5396001,
         "mfb": 6378,
         "eurolines": "Bukarest",
@@ -729,6 +741,18 @@
         "coordinates": {
             "longitude": 26.119102,
             "latitude": 44.440763
+        }
+    },
+    {
+        "id": null,
+        "db": 5300027,
+        "mfb": 12148,
+        "eurolines": "Cluj-Napoca",
+        "ouibus": null,
+        "name": "Cluj-Napoca",
+        "coordinates": {
+            "longitude": 23.586616,
+            "latitude": 46.784197
         }
     },
     {
