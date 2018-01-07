@@ -14,7 +14,7 @@
     {
         "id": null,
         "db": 8196001,
-        "mfb": 1394,
+        "mfb": "1394",
         "eurolines": "Wien",
         "ouibus": null,
         "name": "Wien",
@@ -26,7 +26,7 @@
     {
         "id": null,
         "db": 8100002,
-        "mfb": 1554,
+        "mfb": "1554",
         "eurolines": "Salzburg",
         "ouibus": null,
         "name": "Salzburg",
@@ -38,7 +38,7 @@
     {
         "id": null,
         "db": 8800007,
-        "mfb": 2468,
+        "mfb": "2468",
         "eurolines": "Antwerp",
         "ouibus": "XAN",
         "name": "Antwerpen",
@@ -50,7 +50,7 @@
     {
         "id": null,
         "db": 8800003,
-        "mfb": 1785,
+        "mfb": "1785",
         "eurolines": "Brüssel",
         "ouibus": "BRU",
         "name": "Brussels",
@@ -86,7 +86,7 @@
     {
         "id": null,
         "db": 8696001,
-        "mfb": 1905,
+        "mfb": "1905",
         "eurolines": "Kopenhagen",
         "ouibus": null,
         "name": "Copenhagen",
@@ -98,7 +98,7 @@
     {
         "id": null,
         "db": 8600087,
-        "mfb": 5338,
+        "mfb": "5338",
         "eurolines": "Aarhus",
         "ouibus": null,
         "name": "Aarhus",
@@ -134,7 +134,7 @@
     {
         "id": null,
         "db": 7100064,
-        "mfb": 5178,
+        "mfb": "5178",
         "eurolines": "Barcelona",
         "ouibus": "BAR",
         "name": "Barcelona",
@@ -146,7 +146,7 @@
     {
         "id": null,
         "db": 7100011,
-        "mfb": 5188,
+        "mfb": "5188",
         "eurolines": "Bilbao",
         "ouibus": "BLB",
         "name": "Bilbao",
@@ -194,7 +194,7 @@
     {
         "id": null,
         "db": 8796005,
-        "mfb": 4018,
+        "mfb": "4018",
         "eurolines": "Avignon",
         "ouibus": "AVI",
         "name": "Avignon",
@@ -206,7 +206,7 @@
     {
         "id": null,
         "db": 8700047,
-        "mfb": 3288,
+        "mfb": "3288",
         "eurolines": "Bordeaux",
         "ouibus": "BOR",
         "name": "Bordeaux",
@@ -218,7 +218,7 @@
     {
         "id": null,
         "db": 8700434,
-        "mfb": 4118,
+        "mfb": "4118",
         "eurolines": null,
         "ouibus": "XBT",
         "name": "Brest",
@@ -230,7 +230,7 @@
     {
         "id": null,
         "db": 8796002,
-        "mfb": 3498,
+        "mfb": "3498",
         "eurolines": "Lyon",
         "ouibus": "LYO",
         "name": "Lyon",
@@ -242,7 +242,7 @@
     {
         "id": null,
         "db": 8700074,
-        "mfb": 3508,
+        "mfb": "3508",
         "eurolines": "Marseille",
         "ouibus": "MAR",
         "name": "Marseille",
@@ -254,7 +254,7 @@
     {
         "id": null,
         "db": 8796001,
-        "mfb": 3508,
+        "mfb": "3508",
         "eurolines": "Paris",
         "ouibus": "PAR",
         "name": "Paris",
@@ -266,7 +266,7 @@
     {
         "id": null,
         "db": 8700023,
-        "mfb": 106,
+        "mfb": "106",
         "eurolines": "Strasbourg",
         "ouibus": "XER",
         "name": "Strasbourg",
@@ -278,7 +278,7 @@
     {
         "id": null,
         "db": 8396005,
-        "mfb": 1194,
+        "mfb": "1194",
         "eurolines": "Mailand",
         "ouibus": "XLM",
         "name": "Milano",
@@ -290,7 +290,7 @@
     {
         "id": null,
         "db": 8396003,
-        "mfb": 5408,
+        "mfb": "5408",
         "eurolines": null,
         "ouibus": "NAS",
         "name": "Napoli",
@@ -314,7 +314,7 @@
     {
         "id": null,
         "db": 8396004,
-        "mfb": 2075,
+        "mfb": "2075",
         "eurolines": "Rom",
         "ouibus": "ROM",
         "name": "Rome",
@@ -326,7 +326,7 @@
     {
         "id": null,
         "db": 8396008,
-        "mfb": 2155,
+        "mfb": "2155",
         "eurolines": "Venedig",
         "ouibus": null,
         "name": "Venedig",
@@ -338,7 +338,7 @@
     {
         "id": null,
         "db": 8396001,
-        "mfb": 1845,
+        "mfb": "1845",
         "eurolines": "Florence",
         "ouibus": null,
         "name": "Florenz",
@@ -350,7 +350,7 @@
     {
         "id": null,
         "db": 7896001,
-        "mfb": 2205,
+        "mfb": "2205",
         "eurolines": "Zagreb",
         "ouibus": null,
         "name": "Zagreb",
@@ -362,7 +362,7 @@
     {
         "id": null,
         "db": 5496001,
-        "mfb": 1374,
+        "mfb": "1374",
         "eurolines": "Prague",
         "ouibus": null,
         "name": "Prague",
@@ -374,7 +374,7 @@
     {
         "id": null,
         "db": 5400001,
-        "mfb": 9638,
+        "mfb": "9638",
         "eurolines": "Brno",
         "ouibus": null,
         "name": "Brno",
@@ -386,7 +386,7 @@
     {
         "id": "DEBER",
         "db": 8096003,
-        "mfb": 88,
+        "mfb": "88",
         "eurolines": "Berlin",
         "ouibus": null,
         "name": "Berlin",
@@ -398,7 +398,7 @@
     {
         "id": "DEHAM",
         "db": 8096009,
-        "mfb": 118,
+        "mfb": "118",
         "eurolines": "Hamburg",
         "ouibus": null,
         "name": "Hamburg",
@@ -410,7 +410,7 @@
     {
         "id": "DEFRA",
         "db": 8096021,
-        "mfb": 96,
+        "mfb": "96",
         "eurolines": "Frankfurt am Main",
         "ouibus": "AFR",
         "name": "Frankfurt",
@@ -422,7 +422,7 @@
     {
         "id": "DECGN",
         "db": 8096022,
-        "mfb": 107,
+        "mfb": "107",
         "eurolines": "Köln",
         "ouibus": "QKU",
         "name": "Cologne",
@@ -434,7 +434,7 @@
     {
         "id": "DEMUN",
         "db": 8000261,
-        "mfb": 94,
+        "mfb": "94",
         "eurolines": "München",
         "ouibus": null,
         "name": "Munich",
@@ -446,7 +446,7 @@
     {
         "id": "DELEI",
         "db": 8010205,
-        "mfb": 113,
+        "mfb": "113",
         "eurolines": "Leipzig",
         "ouibus": null,
         "name": "Leipzig",
@@ -482,7 +482,7 @@
     {
         "id": null,
         "db": 5596001,
-        "mfb": 1795,
+        "mfb": "1795",
         "eurolines": "Budapest",
         "ouibus": null,
         "name": "Budapest",
@@ -518,7 +518,7 @@
     {
         "id": null,
         "db": 8200100,
-        "mfb": 172,
+        "mfb": "172",
         "eurolines": "Luxembourg",
         "ouibus": "LUX",
         "name": "Luxembourg",
@@ -578,7 +578,7 @@
     {
         "id": null,
         "db": 7696001,
-        "mfb": 7238,
+        "mfb": "7238",
         "eurolines": "Oslo",
         "ouibus": null,
         "name": "Oslo",
@@ -602,7 +602,7 @@
     {
         "id": null,
         "db": 8400058,
-        "mfb": 1334,
+        "mfb": "1334",
         "eurolines": "Amsterdam",
         "ouibus": "AMT",
         "name": "Amsterdam",
@@ -614,7 +614,7 @@
     {
         "id": null,
         "db": 8400530,
-        "mfb": 2548,
+        "mfb": "2548",
         "eurolines": "Rotterdam",
         "ouibus": "QRH",
         "name": "Rotterdam",
@@ -626,7 +626,7 @@
     {
         "id": null,
         "db": 5196007,
-        "mfb": 1815,
+        "mfb": "1815",
         "eurolines": "Gdansk",
         "ouibus": null,
         "name": "Gdansk",
@@ -638,7 +638,7 @@
     {
         "id": null,
         "db": 5196004,
-        "mfb": 2125,
+        "mfb": "2125",
         "eurolines": "Szczecin",
         "ouibus": null,
         "name": "Szczecin",
@@ -650,7 +650,7 @@
     {
         "id": null,
         "db": 5196003,
-        "mfb": 7568,
+        "mfb": "7568",
         "eurolines": "Warschau",
         "ouibus": null,
         "name": "Warsaw",
@@ -662,7 +662,7 @@
     {
         "id": null,
         "db": 5196001,
-        "mfb": 1915,
+        "mfb": "1915",
         "eurolines": "Krakow",
         "ouibus": null,
         "name": "Krakow",
@@ -674,7 +674,7 @@
     {
         "id": null,
         "db": 5100069,
-        "mfb": 1765,
+        "mfb": "1765",
         "eurolines": "Wroclaw",
         "ouibus": null,
         "name": "Wroclaw",
@@ -686,7 +686,7 @@
     {
         "id": null,
         "db": 5196002,
-        "mfb": 2035,
+        "mfb": "2035",
         "eurolines": "Poznan",
         "ouibus": null,
         "name": "Poznan",
@@ -722,7 +722,7 @@
     {
         "id": null,
         "db": 5300005,
-        "mfb": 6358,
+        "mfb": "6358",
         "eurolines": "Brasov",
         "ouibus": null,
         "name": "Brasov",
@@ -734,7 +734,7 @@
     {
         "id": null,
         "db": 5396001,
-        "mfb": 6378,
+        "mfb": "6378",
         "eurolines": "Bukarest",
         "ouibus": null,
         "name": "Bucharest",
@@ -746,7 +746,7 @@
     {
         "id": null,
         "db": 5300027,
-        "mfb": 12148,
+        "mfb": "12148",
         "eurolines": "Cluj-Napoca",
         "ouibus": null,
         "name": "Cluj-Napoca",
@@ -806,7 +806,7 @@
     {
         "id": null,
         "db": 7496000,
-        "mfb": 3798,
+        "mfb": "3798",
         "eurolines": "Stockholm",
         "ouibus": null,
         "name": "Stockholm",
@@ -818,7 +818,7 @@
     {
         "id": null,
         "db": 7400004,
-        "mfb": 1064,
+        "mfb": "1064",
         "eurolines": "Malmo",
         "ouibus": null,
         "name": "Malmö",
@@ -830,7 +830,7 @@
     {
         "id": null,
         "db": 7400003,
-        "mfb": 6638,
+        "mfb": "6638",
         "eurolines": "Göteborg",
         "ouibus": null,
         "name": "Göteborg",
@@ -842,7 +842,7 @@
     {
         "id": null,
         "db": 7400102,
-        "mfb": 6768,
+        "mfb": "6768",
         "eurolines": null,
         "ouibus": null,
         "name": "Uppsala",
@@ -854,7 +854,7 @@
     {
         "id": null,
         "db": 8501008,
-        "mfb": 3298,
+        "mfb": "3298",
         "eurolines": "Genf",
         "ouibus": "GEN",
         "name": "Geneva",
@@ -866,7 +866,7 @@
     {
         "id": null,
         "db": 8596001,
-        "mfb": 1504,
+        "mfb": "1504",
         "eurolines": "Basel",
         "ouibus": "ABC",
         "name": "Basel",
@@ -878,7 +878,7 @@
     {
         "id": null,
         "db": 8596008,
-        "mfb": 89,
+        "mfb": "89",
         "eurolines": "Zürich",
         "ouibus": "ZRC",
         "name": "Zurich",
@@ -890,7 +890,7 @@
     {
         "id": null,
         "db": 5696001,
-        "mfb": 1745,
+        "mfb": "1745",
         "eurolines": "Bratislava",
         "ouibus": null,
         "name": "Bratislava",
@@ -902,7 +902,7 @@
     {
         "id": null,
         "db": 7900003,
-        "mfb": 1925,
+        "mfb": "1925",
         "eurolines": "Ljubljana",
         "ouibus": null,
         "name": "Ljubljana",
@@ -950,7 +950,7 @@
     {
         "id": null,
         "db": 2200025,
-        "mfb": 9808,
+        "mfb": "9808",
         "eurolines": "Lvov / Lemberg",
         "ouibus": null,
         "name": "Lviv",
@@ -998,7 +998,7 @@
     {
         "id": null,
         "db": 7096001,
-        "mfb": 3848,
+        "mfb": "3848",
         "eurolines": "London",
         "ouibus": "ZEP",
         "name": "London",
