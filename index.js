@@ -1,15 +1,14 @@
 'use strict'
 
-const config       = require('config')
-const fs           = require('fs')
-const express      = require('express')
-const http         = require('http')
-const corser       = require('corser')
-const compression  = require('compression')
-const nocache      = require('nocache')
-const path         = require('path')
+const config = require('config')
+const fs = require('fs')
+const express = require('express')
+const http = require('http')
+const corser = require('corser')
+const compression = require('compression')
+const path = require('path')
 
-const prices       = require('./prices')
+const prices = require('./prices')
 
 const api = express()
 const server = http.createServer(api)
@@ -17,8 +16,6 @@ const server = http.createServer(api)
 const allowed = corser.simpleRequestHeaders.concat(['User-Agent'])
 api.use(corser.create({requestHeaders: allowed})) // CORS
 api.use(compression())
-const noCache = nocache()
-
 
 api.get('/', prices)
 
