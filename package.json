@@ -54,5 +54,5 @@
 		"ssh": "ssh travel-price-map-rest",
 		"deploy": "./deploy"
 	},
-	"license": "MIT"
+	"license": "ISC"
 }
