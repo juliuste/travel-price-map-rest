@@ -4,11 +4,11 @@ rsync -rav --delete \
 	--exclude '.*' \
 	--exclude node_modules \
 	--exclude 'cached/*' \
-	. 'enceladus:~/travel-price-map-rest/'
+	. 'europa:~/travel-price-map-rest/'
 
-ssh enceladus "\
+ssh europa "\
 cd ~/travel-price-map-rest
 npm i
 npm update
-forever stop travel-price-map-rest
-forever start -a --uid travel-price-map-rest index.js"
+forever-service delete travel-price-map-rest
+forever-service install travel-price-map-rest --start -s index.js"
