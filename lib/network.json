@@ -624,7 +624,7 @@
         }
     },
     {
-        "id": null,
+        "id": "PLGDA",
         "db": 5196007,
         "flix": "1815",
         "eurolines": "Gdansk",
@@ -648,7 +648,7 @@
         }
     },
     {
-        "id": null,
+        "id": "PLWAR",
         "db": 5196003,
         "flix": "7568",
         "eurolines": "Warschau",
@@ -660,7 +660,7 @@
         }
     },
     {
-        "id": null,
+        "id": "PLKRA",
         "db": 5196001,
         "flix": "1915",
         "eurolines": "Krakow",
@@ -672,7 +672,7 @@
         }
     },
     {
-        "id": null,
+        "id": "PLWRO",
         "db": 5100069,
         "flix": "1765",
         "eurolines": "Wroclaw",
@@ -696,7 +696,7 @@
         }
     },
     {
-        "id": null,
+        "id": "PLLOD",
         "db": 5196010,
         "flix": "7588",
         "eurolines": "Lodz",
