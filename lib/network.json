@@ -697,6 +697,18 @@
     },
     {
         "id": null,
+        "db": 5196010,
+        "flix": "7588",
+        "eurolines": "Lodz",
+        "ouibus": null,
+        "name": "Łódź",
+        "coordinates": {
+            "latitude": 51.769411,
+            "longitude": 19.467708
+        }
+    },
+    {
+        "id": null,
         "db": 9400009,
         "flix": null,
         "eurolines": "Lissabon",
