@@ -1,12 +1,17 @@
 {
 	"name": "travel-price-map-rest",
 	"description": "Travel price map backend",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"keywords": [
 		"bus",
 		"coach",
 		"flixbus",
 		"meinfernbus",
+		"flix",
+		"flixbus",
+		"ecolines",
+		"eurolines",
+		"ouibus",
 		"api",
 		"http",
 		"rest"
@@ -23,6 +28,7 @@
 		"node": ">=6"
 	},
 	"dependencies": {
+		"@juliuste/ecolines": "0.0.0",
 		"cli-native": "^1.0.0",
 		"compression": "^1.7.2",
 		"config": "^1.30.0",

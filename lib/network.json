@@ -4,6 +4,7 @@
         "db": null,
         "flix": null,
         "eurolines": "Tirana",
+        "ecolines": null,
         "ouibus": null,
         "name": "Tirana",
         "coordinates": {
@@ -16,6 +17,7 @@
         "db": 8196001,
         "flix": "1394",
         "eurolines": "Wien",
+        "ecolines": "569",
         "ouibus": null,
         "name": "Wien",
         "coordinates": {
@@ -28,6 +30,7 @@
         "db": 8100002,
         "flix": "1554",
         "eurolines": "Salzburg",
+        "ecolines": null,
         "ouibus": null,
         "name": "Salzburg",
         "coordinates": {
@@ -40,6 +43,7 @@
         "db": 8800007,
         "flix": "2468",
         "eurolines": "Antwerp",
+        "ecolines": "25",
         "ouibus": "XAN",
         "name": "Antwerpen",
         "coordinates": {
@@ -52,6 +56,7 @@
         "db": 8800003,
         "flix": "1785",
         "eurolines": "Brüssel",
+        "ecolines": "9",
         "ouibus": "BRU",
         "name": "Brussels",
         "coordinates": {
@@ -64,6 +69,7 @@
         "db": null,
         "flix": null,
         "eurolines": "Sarajevo",
+        "ecolines": null,
         "ouibus": null,
         "name": "Sarajevo",
         "coordinates": {
@@ -76,6 +82,7 @@
         "db": 5200004,
         "flix": null,
         "eurolines": "Sofia",
+        "ecolines": "182",
         "ouibus": null,
         "name": "Sofia",
         "coordinates": {
@@ -88,6 +95,7 @@
         "db": 8696001,
         "flix": "1905",
         "eurolines": "Kopenhagen",
+        "ecolines": null,
         "ouibus": null,
         "name": "Copenhagen",
         "coordinates": {
@@ -100,6 +108,7 @@
         "db": 8600087,
         "flix": "5338",
         "eurolines": "Aarhus",
+        "ecolines": null,
         "ouibus": null,
         "name": "Aarhus",
         "coordinates": {
@@ -112,6 +121,7 @@
         "db": 7300001,
         "flix": null,
         "eurolines": null,
+        "ecolines": "658",
         "ouibus": null,
         "name": "Athens",
         "coordinates": {
@@ -124,6 +134,7 @@
         "db": 7300008,
         "flix": null,
         "eurolines": "Thessaloniki",
+        "ecolines": "659",
         "ouibus": null,
         "name": "Thessaloniki",
         "coordinates": {
@@ -136,6 +147,7 @@
         "db": 7100064,
         "flix": "5178",
         "eurolines": "Barcelona",
+        "ecolines": null,
         "ouibus": "BAR",
         "name": "Barcelona",
         "coordinates": {
@@ -148,6 +160,7 @@
         "db": 7100011,
         "flix": "5188",
         "eurolines": "Bilbao",
+        "ecolines": null,
         "ouibus": "BLB",
         "name": "Bilbao",
         "coordinates": {
@@ -160,6 +173,7 @@
         "db": 7100049,
         "flix": null,
         "eurolines": "Madrid",
+        "ecolines": null,
         "ouibus": "MAD",
         "name": "Madrid",
         "coordinates": {
@@ -172,6 +186,7 @@
         "db": 7100180,
         "flix": null,
         "eurolines": "Seville",
+        "ecolines": null,
         "ouibus": "ASE",
         "name": "Sevilla",
         "coordinates": {
@@ -184,6 +199,7 @@
         "db": 7100054,
         "flix": null,
         "eurolines": "Valencia",
+        "ecolines": null,
         "ouibus": null,
         "name": "Valencia",
         "coordinates": {
@@ -196,6 +212,7 @@
         "db": 8796005,
         "flix": "4018",
         "eurolines": "Avignon",
+        "ecolines": null,
         "ouibus": "AVI",
         "name": "Avignon",
         "coordinates": {
@@ -208,6 +225,7 @@
         "db": 8700047,
         "flix": "3288",
         "eurolines": "Bordeaux",
+        "ecolines": null,
         "ouibus": "BOR",
         "name": "Bordeaux",
         "coordinates": {
@@ -220,6 +238,7 @@
         "db": 8700434,
         "flix": "4118",
         "eurolines": null,
+        "ecolines": null,
         "ouibus": "XBT",
         "name": "Brest",
         "coordinates": {
@@ -232,6 +251,7 @@
         "db": 8796002,
         "flix": "3498",
         "eurolines": "Lyon",
+        "ecolines": null,
         "ouibus": "LYO",
         "name": "Lyon",
         "coordinates": {
@@ -244,6 +264,7 @@
         "db": 8700074,
         "flix": "3508",
         "eurolines": "Marseille",
+        "ecolines": null,
         "ouibus": "MAR",
         "name": "Marseille",
         "coordinates": {
@@ -256,6 +277,7 @@
         "db": 8796001,
         "flix": "3508",
         "eurolines": "Paris",
+        "ecolines": "8",
         "ouibus": "PAR",
         "name": "Paris",
         "coordinates": {
@@ -268,6 +290,7 @@
         "db": 8700023,
         "flix": "106",
         "eurolines": "Strasbourg",
+        "ecolines": "1001",
         "ouibus": "XER",
         "name": "Strasbourg",
         "coordinates": {
@@ -280,6 +303,7 @@
         "db": 8396005,
         "flix": "1194",
         "eurolines": "Mailand",
+        "ecolines": null,
         "ouibus": "XLM",
         "name": "Milano",
         "coordinates": {
@@ -292,6 +316,7 @@
         "db": 8396003,
         "flix": "5408",
         "eurolines": null,
+        "ecolines": null,
         "ouibus": "NAS",
         "name": "Napoli",
         "coordinates": {
@@ -304,6 +329,7 @@
         "db": null,
         "flix": null,
         "eurolines": "Palermo",
+        "ecolines": null,
         "ouibus": null,
         "name": "Palermo",
         "coordinates": {
@@ -316,6 +342,7 @@
         "db": 8396004,
         "flix": "2075",
         "eurolines": "Rom",
+        "ecolines": null,
         "ouibus": "ROM",
         "name": "Rome",
         "coordinates": {
@@ -328,6 +355,7 @@
         "db": 8396008,
         "flix": "2155",
         "eurolines": "Venedig",
+        "ecolines": null,
         "ouibus": null,
         "name": "Venedig",
         "coordinates": {
@@ -340,6 +368,7 @@
         "db": 8396001,
         "flix": "1845",
         "eurolines": "Florence",
+        "ecolines": null,
         "ouibus": null,
         "name": "Florenz",
         "coordinates": {
@@ -352,6 +381,7 @@
         "db": 7896001,
         "flix": "2205",
         "eurolines": "Zagreb",
+        "ecolines": null,
         "ouibus": null,
         "name": "Zagreb",
         "coordinates": {
@@ -364,6 +394,7 @@
         "db": 5496001,
         "flix": "1374",
         "eurolines": "Prague",
+        "ecolines": "565",
         "ouibus": null,
         "name": "Prague",
         "coordinates": {
@@ -376,6 +407,7 @@
         "db": 5400001,
         "flix": "9638",
         "eurolines": "Brno",
+        "ecolines": "564",
         "ouibus": null,
         "name": "Brno",
         "coordinates": {
@@ -388,6 +420,7 @@
         "db": 8096003,
         "flix": "88",
         "eurolines": "Berlin",
+        "ecolines": "211",
         "ouibus": null,
         "name": "Berlin",
         "coordinates": {
@@ -400,6 +433,7 @@
         "db": 8096009,
         "flix": "118",
         "eurolines": "Hamburg",
+        "ecolines": "45",
         "ouibus": null,
         "name": "Hamburg",
         "coordinates": {
@@ -412,6 +446,7 @@
         "db": 8096021,
         "flix": "96",
         "eurolines": "Frankfurt am Main",
+        "ecolines": "33",
         "ouibus": "AFR",
         "name": "Frankfurt",
         "coordinates": {
@@ -424,6 +459,7 @@
         "db": 8096022,
         "flix": "107",
         "eurolines": "Köln",
+        "ecolines": "48",
         "ouibus": "QKU",
         "name": "Cologne",
         "coordinates": {
@@ -436,6 +472,7 @@
         "db": 8000261,
         "flix": "94",
         "eurolines": "München",
+        "ecolines": "205",
         "ouibus": null,
         "name": "Munich",
         "coordinates": {
@@ -448,6 +485,7 @@
         "db": 8010205,
         "flix": "113",
         "eurolines": "Leipzig",
+        "ecolines": "249",
         "ouibus": null,
         "name": "Leipzig",
         "coordinates": {
@@ -460,6 +498,7 @@
         "db": 2696001,
         "flix": null,
         "eurolines": "Tallinn",
+        "ecolines": "201",
         "ouibus": null,
         "name": "Tallinn",
         "coordinates": {
@@ -472,6 +511,7 @@
         "db": 1096001,
         "flix": null,
         "eurolines": null,
+        "ecolines": "1185",
         "ouibus": null,
         "name": "Helsinki",
         "coordinates": {
@@ -484,6 +524,7 @@
         "db": 5596001,
         "flix": "1795",
         "eurolines": "Budapest",
+        "ecolines": "604",
         "ouibus": null,
         "name": "Budapest",
         "coordinates": {
@@ -496,6 +537,7 @@
         "db": 6096001,
         "flix": null,
         "eurolines": null,
+        "ecolines": null,
         "ouibus": null,
         "name": "Dublin",
         "coordinates": {
@@ -508,6 +550,7 @@
         "db": 2496001,
         "flix": null,
         "eurolines": "Vilnius",
+        "ecolines": "6",
         "ouibus": null,
         "name": "Vilnius",
         "coordinates": {
@@ -520,6 +563,7 @@
         "db": 8200100,
         "flix": "172",
         "eurolines": "Luxembourg",
+        "ecolines": null,
         "ouibus": "LUX",
         "name": "Luxembourg",
         "coordinates": {
@@ -532,6 +576,7 @@
         "db": 2596001,
         "flix": null,
         "eurolines": "Riga",
+        "ecolines": "1",
         "ouibus": null,
         "name": "Riga",
         "coordinates": {
@@ -544,6 +589,7 @@
         "db": 2300010,
         "flix": null,
         "eurolines": null,
+        "ecolines": null,
         "ouibus": null,
         "name": "Chisinau",
         "coordinates": {
@@ -556,6 +602,7 @@
         "db": 6231001,
         "flix": null,
         "eurolines": null,
+        "ecolines": null,
         "ouibus": null,
         "name": "Podgorica",
         "coordinates": {
@@ -568,6 +615,7 @@
         "db": 6500001,
         "flix": null,
         "eurolines": "Skopje",
+        "ecolines": null,
         "ouibus": null,
         "name": "Skopje",
         "coordinates": {
@@ -580,6 +628,7 @@
         "db": 7696001,
         "flix": "7238",
         "eurolines": "Oslo",
+        "ecolines": null,
         "ouibus": null,
         "name": "Oslo",
         "coordinates": {
@@ -592,6 +641,7 @@
         "db": 7600007,
         "flix": null,
         "eurolines": null,
+        "ecolines": null,
         "ouibus": null,
         "name": "Bergen",
         "coordinates": {
@@ -604,6 +654,7 @@
         "db": 8400058,
         "flix": "1334",
         "eurolines": "Amsterdam",
+        "ecolines": "12",
         "ouibus": "AMT",
         "name": "Amsterdam",
         "coordinates": {
@@ -616,6 +667,7 @@
         "db": 8400530,
         "flix": "2548",
         "eurolines": "Rotterdam",
+        "ecolines": "53",
         "ouibus": "QRH",
         "name": "Rotterdam",
         "coordinates": {
@@ -628,6 +680,7 @@
         "db": 5196007,
         "flix": "1815",
         "eurolines": "Gdansk",
+        "ecolines": "99",
         "ouibus": null,
         "name": "Gdansk",
         "coordinates": {
@@ -640,6 +693,7 @@
         "db": 5196004,
         "flix": "2125",
         "eurolines": "Szczecin",
+        "ecolines": "713",
         "ouibus": null,
         "name": "Szczecin",
         "coordinates": {
@@ -652,6 +706,7 @@
         "db": 5196003,
         "flix": "7568",
         "eurolines": "Warschau",
+        "ecolines": "100",
         "ouibus": null,
         "name": "Warsaw",
         "coordinates": {
@@ -664,6 +719,7 @@
         "db": 5196001,
         "flix": "1915",
         "eurolines": "Krakow",
+        "ecolines": "593",
         "ouibus": null,
         "name": "Krakow",
         "coordinates": {
@@ -676,6 +732,7 @@
         "db": 5100069,
         "flix": "1765",
         "eurolines": "Wroclaw",
+        "ecolines": "598",
         "ouibus": null,
         "name": "Wroclaw",
         "coordinates": {
@@ -688,6 +745,7 @@
         "db": 5196002,
         "flix": "2035",
         "eurolines": "Poznan",
+        "ecolines": "395",
         "ouibus": null,
         "name": "Poznan",
         "coordinates": {
@@ -700,6 +758,7 @@
         "db": 5196010,
         "flix": "7588",
         "eurolines": "Lodz",
+        "ecolines": "388",
         "ouibus": null,
         "name": "Łódź",
         "coordinates": {
@@ -712,6 +771,7 @@
         "db": 9400009,
         "flix": null,
         "eurolines": "Lissabon",
+        "ecolines": null,
         "ouibus": "LIS",
         "name": "Lissabon",
         "coordinates": {
@@ -724,6 +784,7 @@
         "db": 9400008,
         "flix": null,
         "eurolines": "Porto",
+        "ecolines": null,
         "ouibus": "APR",
         "name": "Porto",
         "coordinates": {
@@ -736,6 +797,7 @@
         "db": 5300005,
         "flix": "6358",
         "eurolines": "Brasov",
+        "ecolines": null,
         "ouibus": null,
         "name": "Brasov",
         "coordinates": {
@@ -748,6 +810,7 @@
         "db": 5396001,
         "flix": "6378",
         "eurolines": "Bukarest",
+        "ecolines": null,
         "ouibus": null,
         "name": "Bucharest",
         "coordinates": {
@@ -760,6 +823,7 @@
         "db": 5300027,
         "flix": "12148",
         "eurolines": "Cluj-Napoca",
+        "ecolines": null,
         "ouibus": null,
         "name": "Cluj-Napoca",
         "coordinates": {
@@ -772,6 +836,7 @@
         "db": 7200002,
         "flix": null,
         "eurolines": "Belgrad",
+        "ecolines": null,
         "ouibus": null,
         "name": "Belgrade",
         "coordinates": {
@@ -784,6 +849,7 @@
         "db": 2096001,
         "flix": null,
         "eurolines": "Moskau",
+        "ecolines": "5",
         "ouibus": null,
         "name": "Moscow",
         "coordinates": {
@@ -796,6 +862,7 @@
         "db": 2096002,
         "flix": null,
         "eurolines": "Saint Petersburg",
+        "ecolines": "96",
         "ouibus": null,
         "name": "St Petersburg",
         "coordinates": {
@@ -808,6 +875,7 @@
         "db": 2096003,
         "flix": null,
         "eurolines": "Kaliningrad / Koenigsberg",
+        "ecolines": "784",
         "ouibus": null,
         "name": "Kaliningrad",
         "coordinates": {
@@ -820,6 +888,7 @@
         "db": 7496000,
         "flix": "3798",
         "eurolines": "Stockholm",
+        "ecolines": null,
         "ouibus": null,
         "name": "Stockholm",
         "coordinates": {
@@ -832,6 +901,7 @@
         "db": 7400004,
         "flix": "1064",
         "eurolines": "Malmo",
+        "ecolines": null,
         "ouibus": null,
         "name": "Malmö",
         "coordinates": {
@@ -844,6 +914,7 @@
         "db": 7400003,
         "flix": "6638",
         "eurolines": "Göteborg",
+        "ecolines": null,
         "ouibus": null,
         "name": "Göteborg",
         "coordinates": {
@@ -856,6 +927,7 @@
         "db": 7400102,
         "flix": "6768",
         "eurolines": null,
+        "ecolines": null,
         "ouibus": null,
         "name": "Uppsala",
         "coordinates": {
@@ -868,6 +940,7 @@
         "db": 8501008,
         "flix": "3298",
         "eurolines": "Genf",
+        "ecolines": null,
         "ouibus": "GEN",
         "name": "Geneva",
         "coordinates": {
@@ -880,6 +953,7 @@
         "db": 8596001,
         "flix": "1504",
         "eurolines": "Basel",
+        "ecolines": null,
         "ouibus": "ABC",
         "name": "Basel",
         "coordinates": {
@@ -892,6 +966,7 @@
         "db": 8596008,
         "flix": "89",
         "eurolines": "Zürich",
+        "ecolines": "231",
         "ouibus": "ZRC",
         "name": "Zurich",
         "coordinates": {
@@ -904,6 +979,7 @@
         "db": 5696001,
         "flix": "1745",
         "eurolines": "Bratislava",
+        "ecolines": "563",
         "ouibus": null,
         "name": "Bratislava",
         "coordinates": {
@@ -916,6 +992,7 @@
         "db": 7900003,
         "flix": "1925",
         "eurolines": "Ljubljana",
+        "ecolines": null,
         "ouibus": null,
         "name": "Ljubljana",
         "coordinates": {
@@ -928,6 +1005,7 @@
         "db": 7596001,
         "flix": null,
         "eurolines": "Istanbul",
+        "ecolines": null,
         "ouibus": null,
         "name": "Istanbul",
         "coordinates": {
@@ -940,6 +1018,7 @@
         "db": 7500010,
         "flix": null,
         "eurolines": null,
+        "ecolines": null,
         "ouibus": null,
         "name": "Ankara",
         "coordinates": {
@@ -952,6 +1031,7 @@
         "db": 2296001,
         "flix": null,
         "eurolines": "Kiev",
+        "ecolines": "4",
         "ouibus": null,
         "name": "Kiev",
         "coordinates": {
@@ -964,6 +1044,7 @@
         "db": 2200025,
         "flix": "9808",
         "eurolines": "Lvov / Lemberg",
+        "ecolines": "250",
         "ouibus": null,
         "name": "Lviv",
         "coordinates": {
@@ -976,6 +1057,7 @@
         "db": 7002774,
         "flix": null,
         "eurolines": null,
+        "ecolines": null,
         "ouibus": null,
         "name": "Belfast",
         "coordinates": {
@@ -988,6 +1070,7 @@
         "db": 7000444,
         "flix": null,
         "eurolines": null,
+        "ecolines": null,
         "ouibus": null,
         "name": "Cardiff",
         "coordinates": {
@@ -1000,6 +1083,7 @@
         "db": 7096002,
         "flix": null,
         "eurolines": null,
+        "ecolines": null,
         "ouibus": null,
         "name": "Glasgow",
         "coordinates": {
@@ -1012,6 +1096,7 @@
         "db": 7096001,
         "flix": "3848",
         "eurolines": "London",
+        "ecolines": null,
         "ouibus": "ZEP",
         "name": "London",
         "coordinates": {
@@ -1024,6 +1109,7 @@
         "db": 7001537,
         "flix": null,
         "eurolines": null,
+        "ecolines": null,
         "ouibus": null,
         "name": "Manchester",
         "coordinates": {
